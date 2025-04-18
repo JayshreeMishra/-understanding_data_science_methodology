@@ -1,4 +1,4 @@
-# Data Science Methodology 
+# Data Science Methodology: A Case Study
 # 🎗️ Predict the Diagnosis of a Breast Cancer Patient
 
 This Project is a case study of my project Breast Cancer Diagnosis Prediction Model you can check out the project [Here](https://github.com/JayshreeMishra/Data_Science_Projects/tree/main/Project%203%20-%20Cancer%20Prediction)
